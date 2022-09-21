@@ -1,0 +1,90 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width:100%;
+    margin:0;
+    background: linear-gradient(to right, #390750, #091764, #5c063b);
+}
+
+header{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-color:black;
+border-radius: 5px;
+margin-right: 50px;
+margin-left: 50px;
+margin-top: 10px;
+}
+
+.logo img{
+    width: 50%;
+    padding-top: 50px;
+}
+
+.navegacao{
+    overflow: hidden;
+}
+.navegacao a{ 
+    float: right;
+color: (173,173,173);
+text-decoration:none ;
+padding: 10px;
+}
+
+.navegacao a:hover{
+color: #e32936;
+ background-color: #0b1726;
+}
+
+.principal{
+
+ display: flex;
+ flex-direction: row;
+ 
+}
+
+
+.conteudo.lateral01{
+    float:right;
+    width:20%;
+    margin: 5px;
+    margin-left: 45px;
+    margin-right: 2px;
+    text-align: justify;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: gainsboro;
+}
+.conteudo.lateral02{
+    float:right;
+    width:20%;
+    margin: 5px;
+    margin-left: 2px;
+    margin-right: 45px;
+    text-align: justify;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: gainsboro;
+}
+.conteudo.central{
+    width: 55%;
+  margin: 4px;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding: 5px;
+  border-radius: 5px;
+  background-color: gainsboro;
+}
+
+
+.rodape{
+   color:darkgray;
+   font-size:10px;
+   text-align:center;
+}
+
+@media screen and (max-width:600px);{
+    .principal, .conteudo{
+        width:100%;
+        flex-direction:column;
+         padding: 0px;
+    }
+} 
