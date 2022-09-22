@@ -1,0 +1,65 @@
+@@ -0,0 +1,65 @@
+body{ /*altera propriedades gerais do conteúdo html*/
+    font-family: Arial, Helvetica, sans-serif;
+    width: 60%; /*largura total do corpo do texto*/
+    margin: 0 auto;/*centraliza o conteúdo*/
+    background: linear-gradient(to right, #0b1726, #1f3f66);
+    
+}
+header{/*define o cabeçario do site*/
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #161616;
+    border-radius: 5px; /*arredonda os cantos de um elemnto*/
+    margin-top: 10px;
+
+}
+.logo img{/*alteração da div logo espec[ificamente na tag img*/
+  width:60%;/*aumenta ou diminui a imagem*/
+  padding-top:50px;/*desceu 50px para baixo e fica fixo*/
+}
+.navegacao{
+ overflow:hidden;/*esconde a barra de rolagem*/
+}
+
+.navegacao a{ /*altera os hiperlinks da classe navegação*/
+    float: right;/*posiciona o conteúdo em relação a direita*/
+color:rgb(173,173,173);/*trocou a cor dos links*/
+text-decoration:none ;/*tira o sublinhado*/
+padding: 10px;
+}
+
+.navegacao a:hover{/*altera a cor dos links quando voçê passao mouse por cima deles */
+color: #e32936;
+ background-color: #0b1726;
+}
+
+.principal{
+
+ display: flex;
+ flex-direction: row;
+ 
+}
+
+.conteudo{
+    float: left;
+    margin: 15px 15px 25px 5px;/*define margens em relação ao body*/
+    background-color: gainsboro;/*alterar o fundo da div*/
+    text-align: justify;/*para deixar o texto justificado*/
+    padding:15px;/*para o texto não ficar colado no card*/
+    border-radius:5px;/*borda arredondada*/
+    box-shadow:10px 10px 10px #08101a98;/*define sombra*/
+}
+
+.rodape{
+   color:darkgray;
+   font-size:10px;
+   text-align:center;
+}
+
+@media screen and (max-width:600px);{
+    .principal, .conteudo{
+        width:100%;
+        flex-direction:column;
+         padding: 0px;
+    }
+} 
