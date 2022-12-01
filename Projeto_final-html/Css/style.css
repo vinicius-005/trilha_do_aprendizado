@@ -1,0 +1,41 @@
+.imagem{
+    border: 3px;
+    margin 6px;
+    background-color: rgb(187, 160, 187);
+}
+div{
+    border: 5px;
+    margin: 10px;
+    background-color: bisque;
+    padding: 10px 200px;
+}
+.descrição{
+    border: 10px;
+    margin: 30px;
+    background-color: rgb(112, 87, 87);
+    padding: 10px 300px;
+}
+.lorem{
+    border: 2px solid black;
+    margin: 50px;
+    background-color: darkgray;
+}
+.visão{
+    border:2px solid black ;
+    margin: 50px;
+    background-color:darkgray ;
+}
+.valores{
+    border: 2px solid black;
+    margin: 50px ;
+    background-color: darkgray;
+}
+
+.final{
+    border: 2px solid black;
+    color:black;
+    width: 300px;
+    position:relative;
+    padding: 10px 600px;
+ background-color: bisque;
+}
