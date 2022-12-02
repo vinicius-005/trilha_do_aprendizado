@@ -1,0 +1,12 @@
+.titulo{
+    border: 15px;
+    margin: 15px;
+    width: 90%;
+    background-color: darkgray;
+}
+.corpo{
+    border: 20px;
+    margin: 20px;
+    width: 90%;
+    background-color: bisque;
+}
