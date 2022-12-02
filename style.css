@@ -1,0 +1,25 @@
+body{
+    background-color: #333;
+}
+.titulo{
+    color:cornflowerblue ;
+    background-color: black;
+    width: 23%;
+    margin-left: 500px;
+    border-radius: 5px;
+}
+.html{
+    color: cornflowerblue;
+    background-color: black;
+    width: 90%;
+}
+.css{
+    color: cornflowerblue;
+    background-color: black;
+    width: 90%;
+}
+.java{
+    color: cornflowerblue;
+    background-color: black;
+    width: 90%;
+}
