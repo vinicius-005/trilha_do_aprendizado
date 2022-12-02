@@ -7,19 +7,24 @@ body{
     width: 23%;
     margin-left: 500px;
     border-radius: 5px;
+    border-radius: 10px;
 }
 .html{
     color: cornflowerblue;
     background-color: black;
     width: 90%;
+    border-radius: 10px;
+
 }
 .css{
     color: cornflowerblue;
     background-color: black;
     width: 90%;
+    border-radius: 10px;
 }
 .java{
     color: cornflowerblue;
     background-color: black;
     width: 90%;
+    border-radius: 10px;
 }
