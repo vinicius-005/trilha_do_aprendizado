@@ -1,0 +1,46 @@
+body{
+    background-color: grey;
+    background-size: 100% auto;
+    background-size: 100%;
+    font-family: cursive;
+    padding: 20px;
+}
+.voltar{
+    background-color: beige;
+}
+.voltar a{
+    color: black;
+}
+
+.titulo1{
+    background-color:beige;
+    border-radius: 10px;
+}
+.titulo2{
+    background-color: beige;
+    border-radius: 10px;
+}
+.titulo3{
+    background-color: beige;
+    border-radius: 10px;
+}
+.titulo4{
+    background-color: beige;
+    border-radius: 10px;
+}
+    .texto1{
+        background-color: beige;
+        border-radius: 10px;
+    }
+    .texto2{
+        background-color: beige;
+        border-radius: 10px;
+    }
+    .texto3{
+        background-color: beige;
+        border-radius: 10px;
+    }
+    .texto4{
+        background-color: beige;
+        border-radius: 10px;
+    }

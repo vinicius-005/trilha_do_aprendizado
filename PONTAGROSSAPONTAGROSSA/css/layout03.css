@@ -1,0 +1,15 @@
+body{
+    background: linear-gradient(to right, #f7f7fc, #1e5496, #f7f7fc);
+}
+.voltar{
+    font-family: cursive;
+    margin: 10px;
+    padding: 5px;
+    border: 10px;
+}
+div{
+    font-family: cursive;
+    margin: 10px;
+    padding: 5px;
+    border: 10px;
+}

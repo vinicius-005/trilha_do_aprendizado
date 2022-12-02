@@ -1,0 +1,43 @@
+body{
+    font-family: cursive;
+    background-image: url(/PONTAGROSSAPONTAGROSSA/img/buraco-do-padre-ponta-grossa.jpg);
+   }
+   .titulo{
+       background-color: beige;
+       margin: 5px;
+       border-radius: 5px;
+   }
+   .voltar{
+       background-color: beige;
+       margin: 5px;
+       border-radius: 5px; 
+   }
+   .texto1{
+       background-color: beige;
+    margin: 5px;
+    border-radius: 5px;
+   }
+   .endereco{
+       background-color: beige;
+       margin: 5px;
+       border-radius: 5px;
+   }
+   .cordenada{
+       background-color: beige;
+       margin: 5px;
+       border-radius: 5px;
+   }
+   .fone{
+       background-color: beige;
+       margin: 5px;
+       border-radius: 5px;
+   }
+   .mimi{
+       background-color: beige;
+       margin: 5px;
+       border-radius: 5px;
+   }
+   .video1{
+       margin: 5px;
+       border-radius: 5px;
+   }

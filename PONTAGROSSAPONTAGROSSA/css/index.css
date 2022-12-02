@@ -1,0 +1,93 @@
+body{
+    background-image: url(/PONTAGROSSAPONTAGROSSA/img/Ponta_Grossa_2019.jpg);
+    background-size: 100% auto;
+    background-size: 100%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0 auto;
+    width: 100%;
+}
+header{
+    font-family: cursive;
+    border: 10px;
+    margin: 15px;
+}
+.titulo{
+    position: fixed;
+    left: 320px;
+    bottom: 460px;
+    color: aliceblue;
+    background-image: url(/PONTAGROSSAPONTAGROSSA/img/Ponta_Grossa_2019.jpg);
+    border-radius: 8px;
+     font-family: cursive;
+     padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+.link1 a{
+    color:#999999;
+    text-decoration:none;
+  }
+.link2 a{
+    color:#999999;
+    text-decoration:none;
+}
+.link3 a{
+    color:#999999;
+    text-decoration:none;
+}
+.link4 a{
+    color:#999999;
+    text-decoration:none;
+}
+
+.link1{
+    
+    position: absolute;
+    left: 370px;
+    bottom: 280px;
+    background-image: url(/PONTAGROSSAPONTAGROSSA/img/Ponta_Grossa_2019.jpg);
+    border-radius: 10px;
+    font-family: cursive;
+    width: 100px;
+    
+  }
+.link2{
+     
+    position: absolute;
+    left: 570px;
+    bottom: 280px;
+    background-image: url(/PONTAGROSSAPONTAGROSSA/img/Ponta_Grossa_2019.jpg);
+    border-radius: 10px;
+    font-family: cursive;
+    width: 100px;
+    
+  }
+.link3{
+     
+    position: absolute;
+    left: 800px;
+    bottom: 280px;
+    background-image: url(/PONTAGROSSAPONTAGROSSA/img/Ponta_Grossa_2019.jpg);
+    border-radius: 10px;
+    font-family: cursive;
+   width: 100px;
+}
+.link4{
+ 
+    position: absolute;
+    left: 1000px;
+    bottom: 280px;
+    background-image: url(/PONTAGROSSAPONTAGROSSA/img/Ponta_Grossa_2019.jpg);
+    border-radius: 10px;
+    font-family: cursive;
+    width: 100px;
+    }
+
+    @media screen and (max-width:600px){
+        .principal, .conteudo{
+            width:100%;
+            flex-direction:column;
+             padding: 0px;
+        }
+    }
