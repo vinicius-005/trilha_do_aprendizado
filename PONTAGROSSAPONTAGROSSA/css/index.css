@@ -1,5 +1,5 @@
 body{
-    background-image: url(/PONTAGROSSAPONTAGROSSA/img/Ponta_Grossa_2019.jpg);
+    background-image: url(/img/Ponta_Grossa_2019.jpg);
     background-size: 100% auto;
     background-size: 100%;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
@@ -16,7 +16,7 @@ header{
     left: 320px;
     bottom: 460px;
     color: aliceblue;
-    background-image: url(/PONTAGROSSAPONTAGROSSA/img/Ponta_Grossa_2019.jpg);
+    background-image: url(/img/Ponta_Grossa_2019.jpg);
     border-radius: 8px;
      font-family: cursive;
      padding-left: 20px;
@@ -46,7 +46,7 @@ header{
     position: absolute;
     left: 370px;
     bottom: 280px;
-    background-image: url(/PONTAGROSSAPONTAGROSSA/img/Ponta_Grossa_2019.jpg);
+    background-image: url(/img/Ponta_Grossa_2019.jpg);
     border-radius: 10px;
     font-family: cursive;
     width: 100px;
@@ -57,7 +57,7 @@ header{
     position: absolute;
     left: 570px;
     bottom: 280px;
-    background-image: url(/PONTAGROSSAPONTAGROSSA/img/Ponta_Grossa_2019.jpg);
+    background-image: url(/img/Ponta_Grossa_2019.jpg);
     border-radius: 10px;
     font-family: cursive;
     width: 100px;
@@ -68,7 +68,7 @@ header{
     position: absolute;
     left: 800px;
     bottom: 280px;
-    background-image: url(/PONTAGROSSAPONTAGROSSA/img/Ponta_Grossa_2019.jpg);
+    background-image: url(/img/Ponta_Grossa_2019.jpg);
     border-radius: 10px;
     font-family: cursive;
    width: 100px;
@@ -78,7 +78,7 @@ header{
     position: absolute;
     left: 1000px;
     bottom: 280px;
-    background-image: url(/PONTAGROSSAPONTAGROSSA/img/Ponta_Grossa_2019.jpg);
+    background-image: url(/img/Ponta_Grossa_2019.jpg);
     border-radius: 10px;
     font-family: cursive;
     width: 100px;
