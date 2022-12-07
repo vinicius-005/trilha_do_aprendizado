@@ -1,8 +1,8 @@
 body{
-    background-color: rgb(105, 105, 105);
+    background-color:gray;
 }
 .titulo{
-    color:cornflowerblue ;
+    color: white ;
     background-color: black;
     width: 23%;
     margin-left: 500px;
@@ -10,20 +10,20 @@ body{
     border-radius: 10px;
 }
 .html{
-    color: cornflowerblue;
+    color: white;
     background-color: black;
     width: 90%;
     border-radius: 10px;
 
 }
 .css{
-    color: cornflowerblue;
+    color: white;
     background-color: black;
     width: 90%;
     border-radius: 10px;
 }
 .java{
-    color: cornflowerblue;
+    color: white;
     background-color: black;
     width: 90%;
     border-radius: 10px;
